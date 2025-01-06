@@ -1,2 +1,2 @@
 # MyResume
-A beautifully designed personal website to showcase my resume, featuring detailed descriptions of projects, personal information, and multiple contact options. Built to create a visually appealing and professional online portfolio.
+A sleek and professionally designed personal website to showcase my resume, highlight detailed project descriptions, share personal insights, and provide multiple contact options. Developed as a visually appealing and engaging online portfolio to establish a strong professional presence.
